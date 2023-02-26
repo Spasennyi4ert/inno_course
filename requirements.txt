@@ -3,7 +3,7 @@ flask-restful==0.3.9
 flask-sqlalchemy==3.0.2
 Flask-Migrate==4.0.1
 Flask-Session==0.4.0
-psycopg2==2.9.5
+
 psycopg2-binary==2.9.5
 SQLAlchemy==1.4.46
 marshmallow==3.19.0
